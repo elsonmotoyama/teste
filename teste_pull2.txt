@@ -1,2 +1,3 @@
-teste edicao 4
-pull
+teste edicao 4 -
+pull -
+para servidor
